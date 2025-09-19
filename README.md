@@ -1,6 +1,6 @@
 <div align="center">
 
-## Specializing in Java, Spring Boot, API Security, and Scalable System Architecture*
+## Specializing in Java, Spring Boot, API Security, and Scalable System Architecture
 </div>
 
 ---
