@@ -1,7 +1,6 @@
 <div align="center">
 
-### Back-End Engineer | Java, Spring Boot & API Security
-
+## Specializing in Java, Spring Boot, API Security, and Scalable System Architecture*
 </div>
 
 ---
