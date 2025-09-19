@@ -19,7 +19,6 @@ I can help you with:
 >Third-Party API Integration: Connecting your application to essential services like payment gateways (Paystack, Stripe), cloud storage, and more.
 >Containerization (Docker): Packaging and deploying your application with Docker for reliable, consistent, and scalable performance in any environment.
 
-Let's build something great together.
 
 <div align="center">
 
