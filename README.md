@@ -13,9 +13,13 @@ Whether you need a new API built from scratch, an existing application secured, 
 
 I can help you with:
 >Custom REST API Development: Building powerful, well-documented APIs from the ground up.
+>
 >Spring Security Implementation: Securing your application with JWT, OAuth 2.0, and Role-Based Access Control.
+>
 >Database Architecture: Designing and optimizing efficient relational database schemas for performance and scalability.
+>
 >Third-Party API Integration: Connecting your application to essential services like payment gateways (Paystack, Stripe), cloud storage, and more.
+>
 >Containerization (Docker): Packaging and deploying your application with Docker for reliable, consistent, and scalable performance in any environment.
 
 
